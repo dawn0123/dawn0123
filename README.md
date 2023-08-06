@@ -1,9 +1,11 @@
 # Hi, I'm Risto 👋
 
+
 - 👋 I'm an innovative and passionate python developer.
 - 👀 I’m interested in machine learning and deep learning.
 - 🌱 I’m currently learning Llama2.
 - 💞️ I’m looking to collaborate on innovative deep learning team.
+
 
 ❤ _Beautiful is better than ugly._
 <br>❤ _Explicit is better than implicit._
