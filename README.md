@@ -92,8 +92,12 @@
 <p  align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risto1024&layout=compact&theme=radical&hide_border=true" alt="Star's Top Languages" width="50%" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=risto1024&show_icons=true&locale=en" alt="risto1024" width="45%"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=risto1024&" alt="risto1024" width="47%"  />
+<p  align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=risto1024&show_icons=true&locale=en" alt="risto1024" width="50%"  />
+</p>
+<p  align="center">  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=risto1024&" alt="risto1024" width="50%"  />
+</p>
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashraf-kabir&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
