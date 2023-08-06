@@ -5,7 +5,7 @@
 ### - 🌱 I’m currently learning Llama2.
 ### - 💞️ I’m looking to collaborate on innovative deep learning team.
 
->❤ _Beautiful is better than ugly._
+❤ _Beautiful is better than ugly._
 <br>❤ _Explicit is better than implicit._
 <br>❤ _Simple is better than complex._
 <br>❤ _Complex is better than complicated._
@@ -89,13 +89,11 @@
 </p>
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risto1024&layout=compact&theme=radical&hide_border=true" alt="Star's Top Languages" width="100%" />
+<p  align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risto1024&layout=compact&theme=radical&hide_border=true" alt="Star's Top Languages" width="50%" />
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=risto1024&show_icons=true&locale=en" alt="risto1024" width="100%"  /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risto1024&" alt="risto1024" width="100%"  /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=risto1024&show_icons=true&locale=en" alt="risto1024" width="47%"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=risto1024&" alt="risto1024" width="50%"  />
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashraf-kabir&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
