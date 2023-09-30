@@ -1,4 +1,4 @@
-# Hi, I'm Risto 👋
+# Hi 👋
 
 ### - 👋 I'm an innovative and passionate `Python` developer.
 ### - 👀 I’m interested in `Machine Learning` and `Deep Learning`.
