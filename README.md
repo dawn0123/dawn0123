@@ -90,13 +90,13 @@
 
 # 📊 GitHub Stats:
 <p  align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risto1024&layout=compact&theme=radical&hide_border=true" alt="Star's Top Languages" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawn0123&layout=compact&theme=radical&hide_border=true" alt="Star's Top Languages" width="50%" />
 </p>
 <p  align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=risto1024&show_icons=true&locale=en" alt="risto1024" width="50%"  />
+<img src="https://github-readme-stats.vercel.app/api?username=dawn0123&show_icons=true&locale=en" alt="dawn0123" width="50%"  />
 </p>
 <p  align="center">  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=risto1024&" alt="risto1024" width="50%"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dawn0123&" alt="dawn0123" width="50%"  />
 </p>
 
 # 🏆 GitHub Trophies
@@ -104,6 +104,6 @@
 
 
 <!---
-risto1024/risto1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dawn0123/dawn0123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
